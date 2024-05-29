@@ -4,7 +4,7 @@
 
 This project implements a simple web application for solving systems of linear equations. 
 
-
+<h1>Technologies</h1> <h2>Frontend</h2> <ol> <li>HTML</li> <li>CSS (Tailwind CSS)</li> <li>JavaScript</li> </ol> <h3>Libraries</h3> <ol start="1"> <li>React (Planned Migration)</li> </ol>
 
 ## Usage
 
